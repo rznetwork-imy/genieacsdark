@@ -9,7 +9,7 @@ apt install git curl -y
 git clone https://github.com/rznetwork-imy/genieacsdark
 ```
 ```
-cd genieacs
+cd genieacsdark
 ```
 ```
 chmod +x install.sh && chmod +x installdemo.sh
